@@ -30,7 +30,7 @@ pip install mediapipe opencv-python pillow numpy scikit-learn
 ## installation
 
 - git clone https://github.com/Naoldaba/Amharic-SignLanguageRecognition.git
-- cd amharic-sign-language-recognition
+- cd Amharic-SignLanguageRecognition
 
 ## Running the Model
 
